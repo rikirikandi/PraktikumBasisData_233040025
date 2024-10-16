@@ -1,0 +1,2 @@
+select count(jurusan) as jumlah_total_mahasiswa_informatika
+from mahasiswa
